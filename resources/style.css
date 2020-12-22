@@ -26,6 +26,10 @@ body {
     color: gray;
 }
 
+#introduction img {
+    border-radius: 15px;
+}
+
 main {
     margin-top: 20px;
     margin-bottom: 20px;
@@ -36,3 +40,4 @@ main {
     text-align: right;
     color: gray;
 }
+
