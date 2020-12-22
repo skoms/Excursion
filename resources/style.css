@@ -1,10 +1,10 @@
 body {
     background-color: black;
     text-align: center;
-}
-
-#title {
     font-family: Verdana;
+}
+/* Header */
+.title {
     font-weight: normal;
     font-size: 50x;
     color: white;
@@ -13,4 +13,26 @@ body {
 #download-link {
     color: aquamarine;
     font-size: 16px;
+}
+
+/* Introduction section */
+#introduction h2.title {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#introduction p {
+    font-size: 21px;
+    color: gray;
+}
+
+main {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* footer */
+#copyright-tag {
+    text-align: right;
+    color: gray;
 }
